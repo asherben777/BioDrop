@@ -1,0 +1,19 @@
+{
+    "name": "Asher Ben",
+    "type": "personal",
+    "bio": "Learning programming and contributing to open source 🚀",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/asherben777",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "linkedin.com/in/asher-rasamalla",
+        "icon": "linkedin"
+      }
+    ],
+    "githubUsername": "asherben777"
+  }
+  
